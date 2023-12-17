@@ -1,5 +1,7 @@
 <h1 align="center">Hi 😈, I'm fury0us!</h1>
-<h3 align="center">script kiddie turned script adultie</h3>
+<h3 align="center">
+<img src="https://c.tenor.com/lIMtjiAYuT8AAAAM/breezy-hacker.gif" alt="Alt Text">
+</h3>
 
 <p
  align="left"> <a 
