@@ -63,4 +63,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=fury0us&show_
 src="https://github-readme-streak-stats.herokuapp.com/?user=fury0us&"
  alt="fury0us" /></p>
 
-
+<img src="https://media.giphy.com/media/MGaacoiAlAti0/200.gif" alt="Alt Text">
