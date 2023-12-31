@@ -19,7 +19,8 @@ alt="fury0us" /></a> </p>
 
 - ⚡ Fun fact **i love linux!**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Known Languages and Tools</h3>
+<h1 align="center">-------------------------</h1>
 <p align="center">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
