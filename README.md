@@ -11,13 +11,13 @@ alt="fury0us" /></a> </p>
 
                              - 🔭 I’m currently working on [Nettools](https://github.com/Fury0us/nettools)
 
-                                  - 🌱 I’m currently learning **bash, python, c++, TCP/IP Protocol**
+                                  - 🌱 I’m currently learning bash, python, c++, TCP/IP Protocol
 
-                                      - 👯 I’m looking to collaborate on **awesome script ideas**
+                                      - 👯 I’m looking to collaborate on awesome script ideas
 
                     - 👨‍💻 All of my projects are available at [https://github.com/Fury0us](https://github.com/Fury0us)
 
-                                                     - ⚡ Fun fact **i love linux!**
+                                                     - ⚡ Fun fact i love linux!
 
 <h3 align="center">Known Languages and Tools</h3>
 <p align="center">
