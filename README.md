@@ -9,7 +9,7 @@ href="https://github.com/ryo-ma/github-profile-trophy"><img
 src="https://github-profile-trophy.vercel.app/?username=fury0us" 
 alt="fury0us" /></a> </p>
 
-- 🔭 I’m currently working on [Nettools] https://github.com/Fury0us/nettools
+- 🔭 I’m currently working on [Nettools](https://github.com/Fury0us/nettools)
 
 - 🌱 I’m currently learning bash, python, c++, TCP/IP Protocol
 
