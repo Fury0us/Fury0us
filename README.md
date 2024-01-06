@@ -61,4 +61,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=fury0us&show_
 src="https://github-readme-streak-stats.herokuapp.com/?user=fury0us&"
  alt="fury0us" /></p>
 
+<h1 align="center">!DISCLAIMER!</h1>
+<h3 align="left">
+I WILL NOT BE HELD LIABLE IN ANY WAYS, LEGAL OR OTHERWISE, FOR THE WAY MY SCRIPTS ARE USED!
+</h3>
+
 <img src="https://media.giphy.com/media/MGaacoiAlAti0/200.gif" alt="hackerman">
