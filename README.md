@@ -65,5 +65,6 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=fury0us&"
 <h3 align="left">
 I WILL NOT BE HELD LIABLE IN ANY WAYS, LEGAL OR OTHERWISE, FOR THE WAY MY SCRIPTS ARE USED!
 </h3>
-
+<h3 align="center">
 <img src="https://media.giphy.com/media/MGaacoiAlAti0/200.gif" alt="hackerman">
+</h3>
