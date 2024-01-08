@@ -17,8 +17,6 @@ alt="fury0us" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fury0us](https://github.com/Fury0us)
 
-- ⚡ Fun fact i love linux!
-
 <h3 align="center">Known Languages and Tools</h3>
 <p align="center">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer">
